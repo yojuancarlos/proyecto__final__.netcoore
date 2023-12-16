@@ -1,0 +1,106 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <style>
+        body {
+            background-image: url('/Content/Background.jpeg') !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+        }
+
+        main {
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para que el texto sea legible */
+            padding: 20px;
+        }
+    </style>
+    <div class="container">
+        <div class="row">
+            <!-- Este es el primer botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton1" src="~/Content/boton1.jpg" alt="Botón 1" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el segundo botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton2" src="~/Content/boton2.jpg" alt="Botón 2" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el tercer botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton3" src="~/Content/boton3.jpg" alt="Botón 3" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el cuarto botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton4" src="~/Content/boton4.jpg" alt="Botón 4" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el quinto botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton5" src="~/Content/boton5.jpg" alt="Botón 5" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el sexto botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton6" src="~/Content/boton6.jpg" alt="Botón 6" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el séptimo botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton7" src="~/Content/boton7.jpg" alt="Botón 7" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+            <!-- Este es el octavo botón con imagen -->
+            <div class="col-md-3">
+                <div class="button">
+                    <input type="image" name="boton8" src="~/Content/boton8.jpg" alt="Botón 8" onclick="enlargeImg(this)" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Esta es la función que se ejecuta al hacer clic en un botón con imagen
+        function enlargeImg(btn) {
+            // Obtener la URL de la imagen del atributo src del botón
+            var url = btn.src;
+            // Abrir una nueva ventana con la imagen ampliada
+            window.open(url, "_blank");
+        }
+    </script>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <p class="lead">Esta plataforma de hospedaje busca conectar la personas que buscan alojamiento con personas que ofrecen sus casas o habitaciones para alquilar..</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Leer mas »</a></p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+            <h2 id="gettingStartedTitle">Vision</h2>
+            <p>
+                Nuestra visión es crear una plataforma de hospedaje que conecte
+                a viajeros y anfitriones de todo el mundo, ofreciendo experiencias
+                únicas, auténticas y personalizadas.
+            </p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Leer mas »</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="librariesTitle">
+            <h2 id="librariesTitle">Nosotros</h2>
+            <p>Somos un equipo de desarrolladores apasionados por crear soluciones innovadoras para el sector del hospedaje.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Leer mas »</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="hostingTitle">
+            <h2 id="hostingTitle">Contactanos</h2>
+            <p>Puedes contactarnos a travez de nuestro correo correoinventado@gmail.com.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Leer mas »</a></p>
+        </section>
+    </div>
+    </div>
+</main>

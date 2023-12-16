@@ -1,0 +1,190 @@
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CopyComplete
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\DocuSign.eSign.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Elasticsearch.Net.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Nest.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Buffers.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Memory.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.csproj.CopyComplete
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Repository.Implementation\obj\Debug\AirbnbUdc.Repository.Implementation.pdb

@@ -1,0 +1,194 @@
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\AirbnbUdC.WS.dll.config
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\AirbnbUdC.WS.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\AirbnbUdC.WS.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csc.exe
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csc.exe.config
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csc.rsp
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csi.exe
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csi.exe.config
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\csi.rsp
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.AppContext.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Collections.Immutable.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Console.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Globalization.Calendars.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.IO.Compression.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.IO.FileSystem.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Net.Http.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Net.Sockets.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.ValueTuple.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Xml.XPath.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\vbc.exe
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\vbc.exe.config
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\vbc.rsp
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\VBCSCompiler.exe
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\roslyn\VBCSCompiler.exe.config
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Antlr3.Runtime.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Microsoft.Web.Infrastructure.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Newtonsoft.Json.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Net.Http.Formatting.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Helpers.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Http.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Http.WebHost.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Mvc.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Optimization.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Razor.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.Deployment.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.Razor.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\WebGrease.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\AirbnbUdC.Application.Contracts.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Newtonsoft.Json.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Net.Http.Formatting.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Helpers.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Http.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Http.WebHost.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Mvc.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Optimization.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.Razor.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.Deployment.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\System.Web.WebPages.Razor.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Antlr3.Runtime.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Net.Http.Formatting.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Helpers.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Http.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Http.WebHost.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Mvc.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Optimization.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.Razor.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.WebPages.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\AirbnbUdC.WS.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\AirbnbUdC.WS.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\AirbnbUdC.WS.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csc.exe
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csc.exe.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csc.rsp
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csi.exe
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csi.exe.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\csi.rsp
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.AppContext.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Console.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.IO.Compression.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Net.Http.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.ValueTuple.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\vbc.exe
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\vbc.exe.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\vbc.rsp
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\VBCSCompiler.exe
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\AirbnbUdC.Application.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Antlr3.Runtime.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Newtonsoft.Json.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Net.Http.Formatting.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Helpers.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Http.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Http.WebHost.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Mvc.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Optimization.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Razor.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.Razor.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\WebGrease.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\AirbnbUdC.Application.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Newtonsoft.Json.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Net.Http.Formatting.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Helpers.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Http.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Http.WebHost.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Mvc.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Optimization.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.Razor.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\System.Web.WebPages.Razor.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Antlr3.Runtime.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Http.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.Razor.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.csproj.CopyComplete
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.WS\obj\Debug\AirbnbUdC.WS.pdb

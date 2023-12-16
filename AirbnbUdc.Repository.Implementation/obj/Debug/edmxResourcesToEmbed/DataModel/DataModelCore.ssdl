@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Core_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CityName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CountryName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="FamilyName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Cellphone" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="Photo" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RateForOwner" Type="int" />
+    <Property Name="CommentsForOwner" Type="nvarchar(max)" />
+    <Property Name="RateForCustomer" Type="int" />
+    <Property Name="CommentsForCustomer" Type="nvarchar(max)" />
+    <Property Name="ReservationId" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MultimediaType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MultimediaTypeName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Property">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PropertyAddress" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CityId" Type="int" Nullable="false" />
+    <Property Name="CustomerAmount" Type="int" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Latitude" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Longitude" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="OwnerId" Type="bigint" Nullable="false" />
+    <Property Name="CheckinData" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CheckoutData" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Details" Type="nvarchar(max)" />
+    <Property Name="Pets" Type="bit" Nullable="false" />
+    <Property Name="Freezer" Type="bit" Nullable="false" />
+    <Property Name="LaundryService" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PropertyMultimedia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MultimediaName" Type="int" />
+    <Property Name="MultimediaLink" Type="nvarchar(max)" />
+    <Property Name="PropertyId" Type="bigint" Nullable="false" />
+    <Property Name="MultimediaTypeId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PropertyOwner">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="FamilyName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Cellphone" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="Photo" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Reservation">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EnterDate" Type="date" Nullable="false" />
+    <Property Name="OutDate" Type="date" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="PropertyId" Type="bigint" Nullable="false" />
+    <Property Name="CustomerId" Type="bigint" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__City__CountryId__267ABA7A">
+    <End Role="Country" Type="Self.Country" Multiplicity="1" />
+    <End Role="City" Type="Self.City" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="City">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Feedback__Reserv__35BCFE0A">
+    <End Role="Reservation" Type="Self.Reservation" Multiplicity="1" />
+    <End Role="Feedback" Type="Self.Feedback" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reservation">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Feedback">
+        <PropertyRef Name="ReservationId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Property__OwnerI__30F848ED">
+    <End Role="PropertyOwner" Type="Self.PropertyOwner" Multiplicity="1" />
+    <End Role="Property" Type="Self.Property" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PropertyOwner">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Property">
+        <PropertyRef Name="OwnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PropertyM__Multi__3B75D760">
+    <End Role="MultimediaType" Type="Self.MultimediaType" Multiplicity="1" />
+    <End Role="PropertyMultimedia" Type="Self.PropertyMultimedia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MultimediaType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PropertyMultimedia">
+        <PropertyRef Name="MultimediaTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PropertyM__Prope__3A81B327">
+    <End Role="Property" Type="Self.Property" Multiplicity="1" />
+    <End Role="PropertyMultimedia" Type="Self.PropertyMultimedia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Property">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PropertyMultimedia">
+        <PropertyRef Name="PropertyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_cityId_property">
+    <End Role="City" Type="Self.City" Multiplicity="1" />
+    <End Role="Property" Type="Self.Property" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Property">
+        <PropertyRef Name="CityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_CustomerId_Reservation">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Reservation" Type="Self.Reservation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reservation">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_PropertyId_Reservation">
+    <End Role="Property" Type="Self.Property" Multiplicity="1" />
+    <End Role="Reservation" Type="Self.Reservation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Property">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reservation">
+        <PropertyRef Name="PropertyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Core_DBModelStoreContainer">
+    <EntitySet Name="City" EntityType="Self.City" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Feedback" EntityType="Self.Feedback" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MultimediaType" EntityType="Self.MultimediaType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Property" EntityType="Self.Property" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PropertyMultimedia" EntityType="Self.PropertyMultimedia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PropertyOwner" EntityType="Self.PropertyOwner" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reservation" EntityType="Self.Reservation" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__City__CountryId__267ABA7A" Association="Self.FK__City__CountryId__267ABA7A">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="City" EntitySet="City" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Feedback__Reserv__35BCFE0A" Association="Self.FK__Feedback__Reserv__35BCFE0A">
+      <End Role="Reservation" EntitySet="Reservation" />
+      <End Role="Feedback" EntitySet="Feedback" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Property__OwnerI__30F848ED" Association="Self.FK__Property__OwnerI__30F848ED">
+      <End Role="PropertyOwner" EntitySet="PropertyOwner" />
+      <End Role="Property" EntitySet="Property" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PropertyM__Multi__3B75D760" Association="Self.FK__PropertyM__Multi__3B75D760">
+      <End Role="MultimediaType" EntitySet="MultimediaType" />
+      <End Role="PropertyMultimedia" EntitySet="PropertyMultimedia" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PropertyM__Prope__3A81B327" Association="Self.FK__PropertyM__Prope__3A81B327">
+      <End Role="Property" EntitySet="Property" />
+      <End Role="PropertyMultimedia" EntitySet="PropertyMultimedia" />
+    </AssociationSet>
+    <AssociationSet Name="fk_cityId_property" Association="Self.fk_cityId_property">
+      <End Role="City" EntitySet="City" />
+      <End Role="Property" EntitySet="Property" />
+    </AssociationSet>
+    <AssociationSet Name="fk_CustomerId_Reservation" Association="Self.fk_CustomerId_Reservation">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Reservation" EntitySet="Reservation" />
+    </AssociationSet>
+    <AssociationSet Name="fk_PropertyId_Reservation" Association="Self.fk_PropertyId_Reservation">
+      <End Role="Property" EntitySet="Property" />
+      <End Role="Reservation" EntitySet="Reservation" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

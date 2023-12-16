@@ -1,0 +1,12 @@
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\bin\Debug\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\bin\Debug\AirbnbUdC.Application.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdC.Application.Contracts\obj\Debug\AirbnbUdC.Application.Contracts.pdb

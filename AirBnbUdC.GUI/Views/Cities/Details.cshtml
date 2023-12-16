@@ -1,0 +1,46 @@
+﻿@model AirBnbUdC.GUI.Models.Parameters.CityModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+<style>
+    body {
+        background-image: url('/Content/Background.jpeg') !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+
+    main {
+        background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para que el texto sea legible */
+        padding: 20px;
+    }
+</style>
+
+<div>
+    <h4>CityModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Country.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Country.Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-success" }) |
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-danger" })
+
+</p>

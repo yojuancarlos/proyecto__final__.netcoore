@@ -1,0 +1,61 @@
+﻿@model AirBnbUdC.GUI.Models.Parameters.CountryModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<style>
+    body {
+        background-image: url('/Content/Background.jpeg') !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+
+    main {
+        background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para que el texto sea legible */
+        padding: 20px;
+    }
+</style>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>CountryModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <style>
+            .circular-button {
+                width: 90px;
+                height: 50px;
+                border-radius: 50%;
+                text-align: center;
+                line-height: 50px; /* Ajusta la altura para centrar verticalmente el texto */
+                font-size: 14px;
+                font-weight: bold;
+                text-decoration: none;
+                display: inline-block;
+                margin-right: 5px;
+                background-color: red; /* Color de fondo rojo */
+                color: white; /* Color del texto en blanco para que se destaque */
+            }
+        </style>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="circular-button" />
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-danger" })
+        </div>
+    }
+</div>

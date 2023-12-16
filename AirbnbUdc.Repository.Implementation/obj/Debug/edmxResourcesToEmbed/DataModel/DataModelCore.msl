@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Core_DBModelStoreContainer" CdmEntityContainer="Core_DBEntities">
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="Core_DBModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CityName" ColumnName="CityName" />
+          <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Country">
+      <EntityTypeMapping TypeName="Core_DBModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CountryName" ColumnName="CountryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer">
+      <EntityTypeMapping TypeName="Core_DBModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="FamilyName" ColumnName="FamilyName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Cellphone" ColumnName="Cellphone" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Feedback">
+      <EntityTypeMapping TypeName="Core_DBModel.Feedback">
+        <MappingFragment StoreEntitySet="Feedback">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RateForOwner" ColumnName="RateForOwner" />
+          <ScalarProperty Name="CommentsForOwner" ColumnName="CommentsForOwner" />
+          <ScalarProperty Name="RateForCustomer" ColumnName="RateForCustomer" />
+          <ScalarProperty Name="CommentsForCustomer" ColumnName="CommentsForCustomer" />
+          <ScalarProperty Name="ReservationId" ColumnName="ReservationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MultimediaType">
+      <EntityTypeMapping TypeName="Core_DBModel.MultimediaType">
+        <MappingFragment StoreEntitySet="MultimediaType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MultimediaTypeName" ColumnName="MultimediaTypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Property">
+      <EntityTypeMapping TypeName="Core_DBModel.Property">
+        <MappingFragment StoreEntitySet="Property">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PropertyAddress" ColumnName="PropertyAddress" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="CustomerAmount" ColumnName="CustomerAmount" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="OwnerId" ColumnName="OwnerId" />
+          <ScalarProperty Name="CheckinData" ColumnName="CheckinData" />
+          <ScalarProperty Name="CheckoutData" ColumnName="CheckoutData" />
+          <ScalarProperty Name="Details" ColumnName="Details" />
+          <ScalarProperty Name="Pets" ColumnName="Pets" />
+          <ScalarProperty Name="Freezer" ColumnName="Freezer" />
+          <ScalarProperty Name="LaundryService" ColumnName="LaundryService" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PropertyMultimedia">
+      <EntityTypeMapping TypeName="Core_DBModel.PropertyMultimedia">
+        <MappingFragment StoreEntitySet="PropertyMultimedia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MultimediaName" ColumnName="MultimediaName" />
+          <ScalarProperty Name="MultimediaLink" ColumnName="MultimediaLink" />
+          <ScalarProperty Name="PropertyId" ColumnName="PropertyId" />
+          <ScalarProperty Name="MultimediaTypeId" ColumnName="MultimediaTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PropertyOwner">
+      <EntityTypeMapping TypeName="Core_DBModel.PropertyOwner">
+        <MappingFragment StoreEntitySet="PropertyOwner">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="FamilyName" ColumnName="FamilyName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Cellphone" ColumnName="Cellphone" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservation">
+      <EntityTypeMapping TypeName="Core_DBModel.Reservation">
+        <MappingFragment StoreEntitySet="Reservation">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EnterDate" ColumnName="EnterDate" />
+          <ScalarProperty Name="OutDate" ColumnName="OutDate" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PropertyId" ColumnName="PropertyId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

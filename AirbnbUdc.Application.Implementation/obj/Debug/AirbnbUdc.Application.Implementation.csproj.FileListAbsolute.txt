@@ -1,0 +1,83 @@
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CopyComplete
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll.config
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll.config
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.xml
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.AssemblyReference.cache
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CoreCompileInputs.cache
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CopyComplete
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.dll
+D:\GitRepositoryos\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Application.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdC.Application.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Contracts.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.pdb
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\AirbnbUdc.Repository.Implementation.dll.config
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.csproj.CopyComplete
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.dll
+C:\Users\juanc\Documents\proyecto final de .net\AirBNB HTM22222222222222L\AirBNB HTML\AirBNB - copia\AirbnbUdc.Application.Implementation\obj\Debug\AirbnbUdc.Application.Implementation.pdb
